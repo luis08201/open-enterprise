@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+:root {
+    //COLORS
+    --green: #71A894;
+    --black: #303031;
+    --gray:#66645E;
+    --yellow: #F5C64F;
+    --grey: #F3F0EA;
+    --soft-white: #f9f9f9;
+    --white:#ffffff;
+
+    //FONTS
+    --font-oxygen: 'Oxygen Mono', monospace;
+    --font-vollkorn: 'Vollkorn', serif;
+    --font-asap: 'Asap', sans-serif;
+    --font-raleway: 'Raleway', sans-serif;
+}
